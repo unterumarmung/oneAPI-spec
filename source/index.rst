@@ -22,6 +22,7 @@ oneAPI Specification
    elements/oneTBB/source/nested-index
    elements/oneVPL/source/index
    elements/oneMKL/source/index
+   glossary
    contributors
    versions
    notices
