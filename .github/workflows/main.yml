@@ -22,6 +22,6 @@ jobs:
       with:
           name: oneapi-spec-artifacts
           path: |
-	    build/html
-	    build/spelling/output.txt
-	    build/latex/oneAPI-spec.pdf
+            build/html
+            build/spelling/output.txt
+            build/latex/oneAPI-spec.pdf
